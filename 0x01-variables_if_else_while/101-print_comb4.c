@@ -1,13 +1,13 @@
 #include <stdio.h>
 
 /**
- * main - Print 3 combinations of numbers
+ * main - Prints 3 combination of numbers
  *
  * Return: Always (Success)
  **/
 int main(void)
 {
-	int c, i, ;
+	int c, i, k;
 
 	for (c = '0'; c <= '9'; c++)
 	{
